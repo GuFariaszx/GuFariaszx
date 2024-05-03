@@ -4,8 +4,8 @@
 - 🌱 Contate-me pelo email: zacharingustavo@gmail.com
 
 <div align="column">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuFariaszx&show_icons=true&theme=tokyonight"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuFariaszx&layout=compact&theme=tokyonight"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuFariaszx&show_icons=true&theme=blue_navy"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuFariaszx&layout=compact&theme=blue_navy"/>
 </div>
 
 <div style="display: inline_block"><br>
