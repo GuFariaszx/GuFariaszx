@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&pause=1000&color=56F7EB97&background=00FF2800&random=false&width=435&lines=Ol%C3%A1!+Conhe%C3%A7a+meu+perfil+no+Github+!!!" alt="Typing SVG" /></a> 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2798F7&random=false&width=435&lines=Ol%C3%A1!+Conhe%C3%A7a+meu+perfil+no+Github!!" alt="Typing SVG" /></a>
 
 - 🔭 Atualmente estou cursando Técnico de Jogos Digitais
 - 🌱 Contate-me pelo email: zacharingustavo@gmail.com
@@ -13,8 +13,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
 </div>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&pause=1000&color=56F7EB97&background=00FF2800&random=false&width=435&lines=Veja+minhas+Redes+%F0%9F%91%87" alt="Typing SVG" /></a>
- <div> 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2798F7&random=false&width=435&lines=Veja+minhas+Redes+" alt="Typing SVG" /></a>
  
   <a href="https://instagram.com/gFarias.04" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/gust4vin_2030" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
