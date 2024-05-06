@@ -13,6 +13,13 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
 </div>
 
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&random=false&width=435&lines=Contador+de+Visitas" alt="Typing SVG" /></a>
+<div align="" >
+  
+  ![Visitor Count](https://profile-counter.glitch.me/GuFariaszx/count.svg)    
+</div>
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70505&random=false&width=435&lines=Veja+minhas+Redes+" alt="Typing SVG" /></a>
  
   <a href="https://instagram.com/gFarias.04" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -21,11 +28,6 @@
   <a href = "mailto:contatorazacharingustavo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/Gustavo Farias-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-</div>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&random=false&width=435&lines=Contador+de+Visitas" alt="Typing SVG" /></a>
-<div align="" >
-  
-  ![Visitor Count](https://profile-counter.glitch.me/GuFariaszx/count.svg)    
 </div>
 
 
