@@ -11,11 +11,8 @@
 
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&random=false&width=435&lines=Contador+de+Visitas" alt="Typing SVG" /></a>
-<div align="" >
-  
-  ![Visitor Count](https://profile-counter.glitch.me/GuFariaszx/count.svg)    
-</div>
+
+
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70505&random=false&width=435&lines=Veja+minhas+Redes+" alt="Typing SVG" /></a>
  
