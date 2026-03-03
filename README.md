@@ -3,10 +3,6 @@
 - 🔭 Atualmente estou cursando Técnico de Jogos Digitais
 - 🌱 Contate-me pelo email: zacharingustavo@gmail.com
 
-<div align="column">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuFariaszx&show_icons=true&theme=shadow_red"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuFariaszx&layout=compact&theme=shadow_red"/>
-</div>
 
 
 
