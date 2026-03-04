@@ -3,13 +3,6 @@
 - 🔭 Atualmente estou cursando Graduação em Ciência de Dados!
 - 🌱 Contate-me pelo email: zacharingustavo@gmail.com
 
-
-
-
-
-
-
-
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70505&random=false&width=435&lines=Veja+minhas+Redes+" alt="Typing SVG" /></a>
  
   <a href="https://instagram.com/gFarias.04" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
